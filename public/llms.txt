@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Access Roblox, Among Us, and Geometry Dash games instantly during school breaks. Sullivan games brings you the best unblocked gaming portal for students.
+
+### Games
+https://example.com/games
+Discover hundreds of unblocked titles including Among Us game, Roblox adventures, and Geometry Dash challenges. Find your next favorite game to play today.
+
+### About
+https://example.com/about
+Learn how Sullivan games became the trusted platform for school gaming. We provide safe, accessible entertainment featuring Geometry Dash and popular multiplayer hits.
+
+### Contact
+https://example.com/contact
+Have a game request or need help? Reach out to the Sullivan games team and let us know what you want to play next. We respond to all student inquiries fast.
+
+### Products
+https://example.com/products
+Our Products - Sullivan games
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Sullivan games
+
+### Category
+https://example.com/category/:slug
+Products - Sullivan games
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
